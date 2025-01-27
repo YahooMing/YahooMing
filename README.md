@@ -28,7 +28,7 @@
 ## 🌍 Where to Find Me
 
 - **GitHub:** here :) 
-- **LinkedIn:** [linkedin.com/in/oskar-chrostowski432](www.linkedin.com/in/oskar-chrostowski432)
+- **LinkedIn:** https://www.linkedin.com/in/oskar-chrostowski432/
 
 ---
 
