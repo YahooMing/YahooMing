@@ -1,7 +1,6 @@
 # 💻 About Me
 
 ### Hi there! 👋 I'm Oskar, a passionate developer, lifelong learner, and tech enthusiast who loves programming.
-### You might be wondering why my nickname is YahooMing. It's because YaoMing (my favourite basketball player) is already taken, so I had to come up with something.
 
 ---
 
